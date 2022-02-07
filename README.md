@@ -1,2 +1,3 @@
-# first-challenge-github-dio
-Primeiro Desafio Projeto Github
+# Primeiro Desafio Projeto Github - DIO
+
+Repositório para alocação de arquivos criados para o primeiro desafio proposto
